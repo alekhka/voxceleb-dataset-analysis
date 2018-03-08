@@ -1,0 +1,2 @@
+family = 'wikipedia'
+mylang = 'en'
